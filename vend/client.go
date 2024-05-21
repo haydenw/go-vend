@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	baseUrlString  = ".vendhq.com/api/"
+	baseUrlString  = ".retail.lightspeed.app/api/"
 	libraryVersion = "0.1"
 	userAgent      = "go-vend/" + libraryVersion
 )
